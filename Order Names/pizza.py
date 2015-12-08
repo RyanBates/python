@@ -1,4 +1,4 @@
-rad = 12
+rad = 16
 price = 35.00
 
 cir = 2 * 3.14 + price
